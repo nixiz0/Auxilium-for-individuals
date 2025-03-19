@@ -1,0 +1,45 @@
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    # restart: always
+    ports:
+      - "11434:11434"
+    networks:
+      - app_network
+    volumes:
+      - ollama_data:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+
+  translate_api:
+    build: 
+      context: ./auxilium-translate
+      # Comment and choose if you have cuda or not
+      # dockerfile: Dockerfile.nocuda
+      dockerfile: Dockerfile.cuda
+    container_name: translate_api
+    # restart: always
+    ports:
+      - "7995:7995"
+    networks:
+      - app_network
+    volumes:
+      - hf_model:/app/auxilium-translate/hf_model
+    environment:
+      - TRANSLATION_MODEL=facebook/nllb-200-distilled-1.3B
+      - CHUNK_SIZE=150
+      - LANGUAGE_RESULT=eng_Latn
+      - MODEL_HF_CACHE_DIR=/app/auxilium-translate/hf_model
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+
+volumes:
+  ollama_data:
+  hf_model:

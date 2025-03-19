@@ -1,0 +1,104 @@
+L'aéronautique comporte les sciences et les techniques ayant pour but de construire et de faire évoluer un aéronef dans l'atmosphère terrestre.
+
+Les sciences aéronautiques comprennent en particulier l'aérodynamique, une branche de la mécanique des fluides ; les techniques sont celles qui concernent la construction des aéronefs, leur propulsion ainsi que les servitudes. Les entreprises associées à ces techniques sont dans la catégorie Entreprise aéronautique.
+
+Piloter un aéronef permet de le faire évoluer et de pratiquer une activité. Les activités principales sont liées à la composante aérienne des forces armées d'un pays, le transport aérien commercial ou à la pratique d'une activité de loisir ou de sport aérien. On y associe les organisations et les compagnies aériennes gérant ces activités.
+
+Un aéronef est un engin qui, pour évoluer dans l'atmosphère, l'utilise pour sa sustentation. Les principaux aéronefs sont l'avion et l'hélicoptère. Les forces armées utilisent aussi des missiles et des drones dont certains sont assimilables à des aéronefs sans pilote humain à bord, en particulier les missiles de croisière et les drones d'observation.
+
+Le cerf-volant et le parachute ne sont pas des aéronefs. Toutefois, ce dernier est très lié à l'aéronautique par son utilisation comme moyen de sauvetage et son évolution qui en a fait un engin pilotable.
+
+Les activités aériennes sont réglementées sous l'égide d'institutions le plus souvent étatiques, à l'échelle mondiale, comme l'IATA pour les compagnies aériennes, à l'échelle régionale, comme Eurocontrol pour la gestion du trafic aérien dans la zone européenne, ou à l'échelle nationale, comme la DGAC pour l'aviation civile en France. Ces institutions organisent ou réglementent la formation dans les métiers de l'aéronautique, en particulier lorsque la sécurité des vols est affectée : c'est le cas pour les pilotes et le personnel navigant commercial, mais aussi pour le personnel chargé de la maintenance et les contrôleurs aérien. Ces formations sont assurées par des écoles spécialisées.
+
+La navigation, la connaissance de l'atmosphère terrestre, la météorologie sont indispensables à l'aéronautique même si les bases ne lui sont pas spécifiques.
+
+La liste des aéronefs est le point d'entrée principal où chaque aéronef est classé selon son constructeur.
+
+Enfin, les articles des catégories « Histoire de l'aéronautique » et « Chronologie de l'aéronautique » relatent les principaux événements intéressant l'aéronautique. Les biographies des aviateurs, des concepteurs et ingénieurs se retrouvent dans la catégorie « Personnalité de l'aéronautique ».
+
+L'astronautique concerne le déplacement et la navigation hors de l'atmosphère terrestre.
+Distinction entre astronautique et aéronautique - Domaine de l'aéronautique
+
+L'astronautique est le domaine des évolutions et de la navigation en dehors de l'atmosphère terrestre, éventuellement vers d'autres astres. Les engins utilisés traversent l'atmosphère mais doivent leur sustentation, et souvent leur pilotage, à un propulseur anaérobie.
+
+L'aéronautique est le domaine des évolutions et de la navigation au sein de l'atmosphère terrestre et utilisant cette atmosphère pour sustenter un engin. Le plus souvent, mais pas obligatoirement, ces engins utilisent l'atmosphère pour assurer aussi le pilotage (gouvernes aérodynamiques) et la propulsion (aérobie).
+
+L'aéronautique comporte deux classes d'engins :
+
+    les aérostats : la sustentation est due à la poussée d'Archimède ;
+    les aérodynes : la sustentation est due aux forces aérodynamiques exercées par le déplacement d'une surface portante, l'aile pour les avions et la pale du rotor pour les hélicoptères.
+
+Les principaux aérostats sont les ballons libres utilisés surtout pour des activités sportives ou de loisir et les dirigeables.
+
+L'avion et l'hélicoptère sont des aérodynes avec pilote à bord. Leurs utilisations civiles ou militaires sont multiples.
+
+Certains missiles, en particulier les missiles de croisière, et les drones sont des aérodynes sans pilote à bord. Ils sont soit guidés à partir du sol soit préprogrammés. Les missiles emportent une charge militaire et sont détruits en fin de mission ; les drones sont utilisés essentiellement pour le renseignement ou la surveillance et sont généralement utilisés par les forces armées, de police ou de douane.
+
+Le parachute n'est pas un aéronef : il utilise l'atmosphère pour freiner sa descente sans effet de sustentation. Toutefois une nouvelle classe de parachute est apparue à la fin du XXe siècle comportant une voilure souple avec effet de sustentation ; ces engins se rapprochent des avions ultralégers à voilure souple tels que les deltaplanes.
+« Aéronautique » ou « aviation »
+Article connexe : Aviation.
+
+Les dictionnaires courants donnent des définitions quasi équivalentes pour les deux termes : le domaine des machines permettant de naviguer dans l'atmosphère terrestre. Le terme « aviation » recouvrant plus particulièrement le domaine des avions, le terme « aéronautique » est donc plus général et doit être employé lorsque le sujet recouvre l'ensemble des aéronefs.
+
+En anglais, le terme « aviation », bien plus usité dans cette langue que « aeronautics », recouvre quant à lui l'ensemble du domaine.
+Histoire
+Une catégorie est consacrée à ce sujet : Histoire de l'aéronautique.
+Articles détaillés : Histoire de l'aérostation, Histoire de l'aviation et Histoire de l'hélicoptère et autres voilures tournantes.
+
+L'être humain aspire à voler depuis toujours. Si Léonard de Vinci, vers 1500, imagine des machines volantes, ce n'est qu'en 1783 que les premiers hommes vont pouvoir réaliser le vieux rêve d'Icare avec les montgolfières des frères Montgolfier, précédant de très peu les ballons à gaz de Jacques Charles. Ces engins sont tributaires du vent, l'aéronautique ne va vraiment prendre son essor qu'avec les ballons dirigeables, de Henri Giffard en 1852.
+Prototype de l'avion de Clément Ader.
+
+En parallèle au développement des plus légers que l'air, d'autres pionniers se tournent à la fin du XVIIIe siècle vers le plus lourd que l'air, qui deviendra l'« avion ». La paternité des premiers vols planés comme celle des premiers vols motorisés est contestée pour des raisons de définition : certains essais de vol plané (s'ils ont réellement eu lieu) sont plus proches du parachute que du planeur et certains décollages motorisés nécessitaient une assistance au sol. De plus les sentiments chauvinistes ne sont pas exempt de certaines revendications.
+
+Otto Lilienthal, en Allemagne, réussit plusieurs centaines de vols planés, et documentés, dans la dernière décennie du siècle. En 1890 et 1891, Clément Ader, en France, serait parvenu à faire décoller un avion équipé d'un moteur à vapeur devant témoins mais ses tentatives restent sans lendemain. Ce sont les frères Orville et Wilbur Wright, aux États-Unis, qui, à partir de 1903, peuvent non seulement faire décoller leur appareil mais parviennent à le contrôler sur des distances de plus en plus importantes atteignant 124 km en 1908. Ces vols sont documentés et font l'objet de démonstrations y compris en France.
+
+La seconde voie explorée est celle de l'hélicoptère. À masse égale il nécessite une puissance nettement plus élevée que celle de l'avion pour assurer la sustentation. Pourtant dès 1907, Paul Cornu, en France, réussit le premier vol libre mais les progrès seront ensuite bien plus lents que ceux de l'avion.
+
+Le premier conflit mondial qui survient à peine une décennie après les premiers vols voit le développement de l'avion en tant que moyen de renseignement sur les positions ennemies. Les avions s'équipent de mitrailleuses pour pouvoir abattre l'adversaire et l'empêcher d'accomplir sa mission. La construction aéronautique entre dans l'ère de la grande série puisque certains modèles sont construits en plusieurs milliers d'exemplaires.
+
+La fin du conflit met sur le marché un grand nombre de pilotes et d'appareils. Les premières tentatives d'utilisation commerciale de l'avion apparaissent et des compagnies se forment pour transporter le courrier, puis des passagers, sur des lignes régulières. La navigation aérienne utilise les méthodes issues de la navigation maritime et nécessite donc que la visibilité soit bonne : le vol reste tributaire de la météorologie. La concurrence entre l'avion et le dirigeable pour le transport des passagers se développe au cours du premier tiers du XXe siècle et se termine tragiquement avec l'accident du dirigeable Zeppelin Hindenburg en 1937. C'est la fin de l'aérostation qui n'est plus qu'une discipline destinée au sport ou au loisir.
+
+Les forces armées ont vu l'intérêt de l'avion pour le renseignement mais aussi pour le bombardement. La course à l'armement est lancée et les nouveaux appareils sont spécialisés : bombardiers, chasseurs, attaque au sol, etc. Il est tactiquement intéressant de voler de plus en plus vite, de plus en plus haut, de plus en plus loin. La course aux records en tous genres est lancée et c'est la période des exploits : traversée des mers, puis des océans ; survol des massifs montagneux ; croisières longue distance ; etc.
+
+Le second conflit mondial est caractérisé par une utilisation massive de l'avion pour les missions de bombardement et, en corollaire, des chasseurs et intercepteurs chargés de les protéger ou de les détruire. Sur le plan technique c'est aussi l'apogée du moteur à piston. Le développement du réacteur, vers la fin du conflit, et l'apparition du radar vont permettre, la paix revenue, l'essor du transport aérien commercial.
+
+De nouveau, à la fin du conflit, des pilotes entraînés et des avions se trouvent disponibles en grand nombre. Les progrès réalisés dans le domaine du radar permettent de suivre et de guider l'avion en vol sans visibilité. Les compagnies aériennes naissent et commencent à concurrencer les paquebots et les trains au moins pour le voyage en conditions luxueuses. La mise en service du Boeing 707 par la PanAm en 1958 marque le passage au transport aérien commercial de masse. La concurrence est vive entre les compagnies et s'intensifie encore avec la dérégulation lancée aux États-Unis en 1978. Les paquebots transocéaniques disparaissent et le train lui-même est concurrencé sur les trajets de durée supérieure à trois heures.
+
+Sur le plan militaire, la « compétition » continue entre les États-Unis et l'URSS pendant la guerre froide. Le mur du son est atteint puis largement dépassé, les bombardiers supersoniques volent à Mach 2 et les intercepteurs à plus de Mach 3. La nature du combat change avec les performances du radar de détection et l'utilisation des missiles air-air et sol-air pour empêcher la pénétration. L'accent se porte sur des performances nouvelles comme la furtivité et la pénétration basse-altitude, sous la couverture radar.
+
+L'aéronautique est, depuis ses origines, une lutte pour l'allègement des structures et l'augmentation de la puissance. Ce n'est qu'en 1977 que le premier vol utilisant un « moteur humain » sera réalisé à bord du Gossamer Condor, un avion de moins de 32 kg. À l'opposé l'Airbus A 380 est en service commercial depuis 2007, ses quatre réacteurs développent une poussée supérieure à 1 200 kN et permettent de faire décoller plus de 400 tonnes.
+Activité aérienne et type d'aéronef
+Une catégorie est consacrée à ce sujet : Activité aérienne.
+
+La pratique d'une activité aérienne est le plus souvent réglementée en raison de la nécessité de partager l'espace aérien entre les divers utilisateurs et en raison des risques ou inconvénients que la pratique de cette activité peut causer aux habitants ou à l'environnement.
+
+Dans la plupart des pays, États-Unis et Europe en particulier, on distingue trois grandes classes d'activités :
+
+    militaire : missions liées à la défense nationale mais aussi, suivant l'organisation des pays, des missions de contrôle des frontières ou de police.
+    transport aérien commercial : transport de passagers ou de fret par des compagnies aériennes entre aéroports d'un même pays ou de pays différents. Les États-Unis et l'Europe ayant été les pionniers et étant encore (en 2014) les principaux acteurs la réglementation de ce domaine fait l'objet d'accords internationaux qui sont aussi, le plus souvent, appliqués au sein des pays.
+    l'aviation générale : elle recouvre l'ensemble des activités réglementées qui ne font pas partie des deux domaines ci-dessus. Ce sont les activités liées au travail aérien, aux loisirs ou aux sports.
+    une quatrième classe peut exister de facto, celle des activités ne faisant pas l'objet de réglementation ou étant réglementées par des organismes non-aéronautique. Par exemple, les États-Unis ne soumettent pas la pratique de l'ULM à la FAA mais au Département des transports, un ULM est considéré comme un véhicule et non comme un aéronef.
+
+Dans la majorité des cas un aéronef est conçu pour l'exercice d'une activité et configuré en conséquence. Les principaux types d'aéronef sont :
+
+    pour les activités militaires :
+        les avions ou hélicoptères de combat
+        les avions de patrouille
+        les avions de transport
+        les avions d'entraînement
+    pour le transport aérien commercial
+        les avions de ligne
+    pour l'aviation générale
+        de travail aérien
+            le transport de passagers ou de fret, avion d'affaires
+            l'épandage agricole ou lutte contre l'incendie
+            l'apprentissage du pilotage
+        de loisirs
+            les avions ou hélicoptères légers
+            les ULM
+            les aérostats
+        de sport
+            les avions de voltige
+            le vol à voile
+            le parapente
+            le parachutisme

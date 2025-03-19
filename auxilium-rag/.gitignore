@@ -1,0 +1,7 @@
+# Env files
+__pycache__
+.env
+
+# User Vectorstore 
+vectorstore
+

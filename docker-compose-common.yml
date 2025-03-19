@@ -1,0 +1,73 @@
+services:
+  app_interface:
+    build: 
+      context: ./auxilium-llms
+      dockerfile: Dockerfile
+    container_name: app_interface
+    # restart: always
+    ports:
+      - "8501:8501"
+    depends_on:
+      - ollama
+      - translate_api
+    networks:
+      - app_network
+    volumes:
+      - conversation_data:/app/conversation
+    environment:
+      - SAVE_HISTORY_DIR=/app/conversation 
+      - OLLAMA_API=http://ollama:11434
+      - TRANSLATE_API=http://translate_api:7995/translate
+      - COT_API=http://cot_api:7996/cot/
+      - RAG_API=http://rag_api:7997
+      - MAX_HISTORY=5
+      - RAG_MAX_HISTORY=2
+      - MAX_UPLOAD_SIZE_MB=10240
+
+  cot_api:
+    build: 
+      context: ./auxilium-cot
+      dockerfile: Dockerfile
+    container_name: cot_api
+    # restart: always
+    ports:
+      - "7996:7996"
+    depends_on:
+      - ollama
+    networks:
+      - app_network
+    environment:
+      - OLLAMA_API=http://ollama:11434
+      - LOCAL_LLM_TEST=llama3.2
+
+  rag_api:
+    build: 
+      context: ./auxilium-rag
+      dockerfile: Dockerfile
+    container_name: rag_api
+    # restart: always
+    ports:
+      - "7997:7997"
+    depends_on:
+      - ollama
+    networks:
+      - app_network
+    volumes:
+      - rag_vectorstore:/app/auxilium-rag/vectorstore
+    environment:
+      - OLLAMA_API=http://ollama:11434
+      - RAG_API_TEST=http://rag_api:7997
+      - MODEL_RESPONSE=llama3.1
+      - MODEL_VECTOR=nomic-embed-text
+      - CHUNCK_SIZE=1500
+      - CHUNCK_OVERLAP=120
+      - K_NUMBER_DOC_RETRIEVE=5
+      - VECTORSTORE_DIR=/app/auxilium-rag/vectorstore
+
+volumes:
+  conversation_data:
+  rag_vectorstore:
+
+networks:
+  app_network:
+    driver: bridge

@@ -1,0 +1,36 @@
+# Use the official Python base image with CUDA
+FROM nvidia/cuda:11.8.0-base-ubuntu20.04
+
+# Set working directory
+WORKDIR /app
+
+# Updates packages, installs necessary dependencies, and cleans caches in  single RUN command to reduce middle layers
+RUN apt-get update && apt-get install -y \
+    software-properties-common \
+    curl \
+    && add-apt-repository ppa:deadsnakes/ppa \
+    && apt-get update && apt-get install -y \
+    python3.11 \
+    python3.11-distutils \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set Python 3.11 as the default version
+RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 1
+
+# Install pip from the official script
+RUN curl -sS https://bootstrap.pypa.io/get-pip.py | python3.11
+
+# Copy app code
+COPY . .
+
+# Install Libs
+RUN pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu118 && \
+    pip install -r requirements.txt && \
+    rm -rf /root/.cache/pip
+
+# Expose port 7995
+EXPOSE 7995
+
+# Start the API and run the tests
+CMD ["sh", "-c", "uvicorn translate_api:app --host 0.0.0.0 --port 7995 & sleep 15 && pytest test_translate.py -s; tail -f /dev/null"]

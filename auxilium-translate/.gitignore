@@ -1,0 +1,8 @@
+# Env files
+__pycache__
+.env
+.pytest_cache
+
+# Hugging Face Model
+hf_model
+
