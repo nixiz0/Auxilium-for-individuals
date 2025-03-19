@@ -1,4 +1,4 @@
-# **Auxilium: Portable and Versatile Local LLM Optimization**
+# **Auxilium**
 
 ## **Project Overview**
 
