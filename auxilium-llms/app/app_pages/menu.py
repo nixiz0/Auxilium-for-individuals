@@ -12,6 +12,8 @@ def menu_page():
     # Initialize input field in session_state
     if 'model_name_input' not in st.session_state:
         st.session_state.model_name_input = ""
+        
+    st.session_state.model_use = ""
 
     # ----[SIDEBAR ELEMENTS]----
     language = st.sidebar.selectbox("🔠Choisissez la langue" if LANGUAGE == 'fr' else "🔠Choose language", ["fr", "en"], index=["fr", "en"].index(LANGUAGE), key='selectbox_lang')
@@ -34,7 +36,7 @@ def menu_page():
 
     model_names = view_install_llms()
     model_names.insert(0, "")
-    model_use = st.sidebar.selectbox('🔬 Modèles' if LANGUAGE == "fr" else '🔬 Models', model_names)
+    model_use = st.sidebar.selectbox('🔬 Modèles' if LANGUAGE == "fr" else '🔬 Models', model_names, index=model_names.index(st.session_state.model_use) if st.session_state.model_use in model_names else 0)
 
     if model_use:
         custom_llm(model_use)
