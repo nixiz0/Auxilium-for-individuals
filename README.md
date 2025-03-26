@@ -1,8 +1,8 @@
-# **Auxilium**
+# **Auxilium for Individuals**
 
 ## **Project Overview**
 
-Auxilium is designed to make optimizing and managing Large Language Models (LLMs) locally more accessible and adaptable for everyone, everywhere. This project provides a powerful system that includes:
+System designed to make optimizing and managing Large Language Models (LLMs) locally more accessible and adaptable for everyone, everywhere. This project provides a powerful system that includes:
 
 - **Automatic Translation**: Currently supports French to English but can be adapted for other languages.
 - **Reflection Chain**: A feature that can be activated or deactivated to enhance model thinking processes.
